@@ -1,0 +1,7 @@
+{
+  "name": "Craving Intercept - WebGL Meditations",
+  "description": "Urge Surfing recovery visualizer featuring integrated Marlatt craving cresting curve timer, Quiet Flow GLSL shader, Ink in Water fluid solver, Clear Depths reveal simulation, and Touch Grass tactile meadow breeze.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
